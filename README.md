@@ -1,16 +1,14 @@
 # DL_dog_breed_classification
 
 DL_dog_breed_classification is a Project mandatory in the Udacity Nanodegree Program that i am pursuing.
-i will be commenting on the key learning on the project here.
+I will be commenting on the key learning from this project here.
 
 ## Installation
 
 I was using the workspace of Udacity. So this is out of the scope of this repository unfortunately.
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Prerequisites
 #### Skills / Knowledge
 understand and/or have experience with:
 - the functioning of MLP: Model architecture building, feedforward design, backpropagation, optimizer definition, loss function definition 
